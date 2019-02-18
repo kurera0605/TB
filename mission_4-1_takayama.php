@@ -50,8 +50,6 @@ $passwordh=$_POST["passwordh"];
 	$commenth = $row['comment'];
 
 }
-
-
 }
 }
 
